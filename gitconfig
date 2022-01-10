@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = meline.alexandre@laposte.net
+	name = Alexandre Meline
